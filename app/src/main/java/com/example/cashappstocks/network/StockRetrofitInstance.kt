@@ -1,4 +1,4 @@
-package com.example.cashappstocks.network.data
+package com.example.cashappstocks.network
 
 import com.squareup.moshi.Moshi
 import okhttp3.OkHttpClient

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cash App Stocks</string>
+    <string name="error_message">Error occured while fetching data. Please try again after sometime.</string>
+    <string name="app_bar_text">Stock Information</string>
+    <string name="retry">Retry</string>
+    <string name="no_data_found">No Stock Information found.</string>
 </resources>
